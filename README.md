@@ -1,8 +1,9 @@
-# shakib_s_powerBI_all
-
-
+# All github repositories related my work with Power BI
+This repository consolidates various projects showcasing my work with Power BI, each focused on different aspects of data analysis, dashboard creation, and interactive reporting.
 
 | Projects  | Description | link |
 | ------------- | ------------- |------------- |
-|PowerBI-Dashboard-HouseRent  | Hi everyone, I have created a Visualization based on House rent dataset.  | [PowerBI-Dashboard-HouseRent](https://github.com/maeshakib/PowerBI-Dashboard-HouseRent) |
-| Content Cell  | Content Cell  |List all new or modified files |
+|PowerBI-Dashboard-HouseRent  | Power BI dashboard for analyzing house rent and providing insights for all relevant stakeholders.	| [PowerBI-Dashboard-HouseRent](https://github.com/maeshakib/PowerBI-Dashboard-HouseRent) |  [Power BI](https://github.com/maeshakib/shakib_s_powerBI_all_repos)  |
+| Maven-Sales Power BI Dashboard  | This project involves creating a Power BI dashboard for the Maven Sales Challenge. It includes interactive visualizations and reports that provide insights into sales performance, trends, and key metrics. The dashboard is designed to help stakeholders make data-driven decisions.  |[Maven-Sales Power BI Dashboard](https://github.com/maeshakib/Maven-Sales-Challenge-april-2024) |  [Power BI](https://github.com/maeshakib/shakib_s_powerBI_all_repos) |
+| Retail-Orders-Analysis-SQL-PBI  | This project focuses on analyzing retail orders using SQL and Power BI. It includes SQL scripts for data extraction and transformation, as well as a Power BI dashboard that visualizes order data, sales performance, and inventory management insights. | [SQL-PBI](https://github.com/maeshakib/Wholesale-Retail-Orders-Analysis-SQL) | SQL,PBI |
+| TeamTaskManager  | A project aimed at simplifying team task tracking using lists and providing insights through a Power BI dashboard. The solution leverages Power Automate for notifications and task management, making it easy for teams to stay organized and monitor progress efficiently.  |[TeamTaskManager](https://github.com/maeshakib/TeamTaskManager) | List, PBI, Power Automate |
